@@ -106,8 +106,21 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="314-348x348 %281%29.jpg" />
+    <Content Include="3b-348x348 %281%29.jpg" />
+    <Content Include="42-348x348 %281%29.jpg" />
+    <Content Include="box_partners.png" />
     <Content Include="customCSS.css" />
+    <Content Include="images\314-348x348.jpg" />
+    <Content Include="images\3b-348x348.jpg" />
+    <Content Include="images\42-348x348.jpg" />
+    <Content Include="images\tuscany-villas-sant-anna %281%29.jpg" />
     <Content Include="index.html" />
+    <Content Include="tuscany-villas-sant-anna %282%29.jpg" />
+    <Content Include="Versilia.jpg" />
+    <Content Include="Villa-Rucellai-Toscani-2750-2-348x348.jpg" />
+    <Content Include="Villa-Rucellai-Toscani-2812-2-348x348.jpg" />
+    <Content Include="Villa-Vanna-231-348x348.jpg" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
